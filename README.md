@@ -9,7 +9,7 @@
 <h2 align="center">About Me</h2>
 
 <p align="center">
-  Currently building <a href="https://smpl.rip">smpl.rip</a> and <a href="https://theripbot.dev">theripbot.dev</a>.<br/>
+  Currently building <a href="https://smpl.gg">smpl.gg</a> and <a href="https://theripbot.dev">theripbot.dev</a>.<br/>
   Working across <code>TypeScript</code>, <code>Python</code>, and <code>Cloudflare Workers / R2</code>.<br/>
   I automate things just to be lazy more efficiently.
 </p>
