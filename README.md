@@ -9,7 +9,7 @@
 <h2 align="center">About Me</h2>
 
 <p align="center">
-  Currently building <a href="https://smpl.gg">smpl.gg</a> and <a href="https://theripbot.dev">theripbot.dev</a>.<br/>
+  Currently building <a href="https://smpl.gg">smpl.gg</a> and <a href="https://lies.rip">lies.rip</a>.<br/>
   Working across <code>TypeScript</code>, <code>Python</code>, and <code>Cloudflare Workers / R2</code>.<br/>
   I automate things just to be lazy more efficiently.
 </p>
@@ -39,7 +39,7 @@
       <p align="center">All-in-one file platform — image and video sharing, file hosting, a built-in pastebin, and a public API with ShareX support. Backed by Cloudflare R2 with content-addressed, end-to-end SHA-256 verified vault sync.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://theripbot.dev">theripbot.dev</a></h3>
+      <h3 align="center"><a href="https://lies.rip">lies.rip</a></h3>
       <p align="center">All-in-one Discord companion — 100+ commands across moderation, utilities, and user-installable tools.</p>
     </td>
   </tr>
