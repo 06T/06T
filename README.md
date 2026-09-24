@@ -36,11 +36,11 @@
   <tr>
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://smpl.rip">smpl.rip</a></h3>
-      <p align="center">All-in-one file platform — image and video sharing, file hosting, a built-in pastebin, and a public API with ShareX support. Backed by Cloudflare R2 with content-addressed, end-to-end SHA-256 verified vault sync.</p>
+      <p align="center">All-in-one file platform image and video sharing, bio page, file hosting, a builtin pastebin, and a public API with ShareX support. Backed by Cloudflare R2 with content-addressed, end-to-end SHA-256 verified vault sync.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://lies.rip">lies.rip</a></h3>
-      <p align="center">All-in-one Discord companion — 100+ commands across moderation, utilities, and user-installable tools.</p>
+      <p align="center">AIO Discord bot with 100+ commands across moderation, utilities, and user-installable tools.</p>
     </td>
   </tr>
 </table>
