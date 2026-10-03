@@ -49,5 +49,9 @@
 ---
 
 <p align="center">
+  <img src="/github-metrics.svg" alt="GitHub Metrics"/>
+</p>
+
+<p align="center">
   <img src="https://i.imgur.com/6K2tQKh.gif" width="400" alt="Guts"/>
 </p>
