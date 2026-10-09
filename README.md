@@ -35,7 +35,7 @@
 <table align="center">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://smpl.rip">smpl.rip</a></h3>
+      <h3 align="center"><a href="https://smpl.gg">smpl.gg</a></h3>
       <p align="center">All-in-one file platform image and video sharing, bio page, file hosting, a builtin pastebin, and a public API with ShareX support. Backed by Cloudflare R2 with content-addressed, end-to-end SHA-256 verified vault sync.</p>
     </td>
     <td width="50%" valign="top">
